@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = annaverenaeiden@hotmail.de
+	name = Anna Eiden
